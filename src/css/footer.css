@@ -1,0 +1,35 @@
+.foot{
+    background-color: #1e1e2c;
+    bottom: 0;
+}
+.redicon{
+    margin-bottom: 1em;
+}
+.titlefoot{
+    color: #ffffff;
+}
+.subtitulofoot{
+    font-size: 3.5em;
+    font-weight: 300;
+}
+.iconfoot a{
+    text-decoration: none;
+    color: #33e1ed;
+    font-size: 2rem;
+    margin: 1em;
+}
+.iconfoot i:hover{
+    color: #ffffff;
+    transition: ease-in-out 0.5s;
+    transform: scale(1.3);
+}
+#text-blue{
+    color: #33e1ed;
+}
+.textfoot{
+    font-size: 1.3em;
+    color: #ffffff;
+}
+.copyfoot{
+    font-size: 17px;
+}
